@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucianoc94
 - 👀 I’m interested in Bioinformatics and Deep Learning
-- 🌱 I’m currently learning Vanilla Neural Networks and Python.
+- 🌱 I’m currently learning Vanilla Neural Networks, Python and Haskell
 - 📫 How to reach me: Send me an email.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If all the neurons in the body were lined up, they would be a straight line.
